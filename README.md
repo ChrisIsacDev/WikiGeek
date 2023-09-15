@@ -1,6 +1,8 @@
-<h2> WikiGeek </h2>
+<h1> <img src="https://cdn-icons-png.flaticon.com/512/1707/1707260.png">
+  WikiGeek </h1>
 
-A Enciclopédia dos Video Games 🎮
+<h3> A Enciclopédia dos Video Games 🎮 </h3>
+
 Bem-vindo ao Geekpedia, a enciclopédia definitiva para todos os entusiastas de video games! Neste repositório, você encontrará uma coleção abrangente de informações sobre video games, desde os clássicos retrô até os mais recentes títulos AAA. Explore nosso vasto conjunto de dados e contribua para a nossa missão de tornar o Geekpedia a fonte definitiva de conhecimento sobre video games.
 
 <h2> Sobre o Geekpedia </h2>
