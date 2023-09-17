@@ -1,4 +1,4 @@
-<h1> <img src="https://cdn-icons-png.flaticon.com/512/1707/1707260.png">
+<h1> <img src="https://cdn-icons-png.flaticon.com/512/1707/1707260.png" width=40px>
   WikiGeek </h1>
 
 <h3> A Enciclopédia dos Video Games 🎮 </h3>
